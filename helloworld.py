@@ -1,2 +1,2 @@
 print("hello world")
-print("happy birthday")
+print("happy new year")
